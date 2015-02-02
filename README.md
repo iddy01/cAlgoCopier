@@ -1,8 +1,8 @@
 # cAlgoCopier
 Copy position from cAlgo(cTrader) to cAlgo(cTrader) 
 
-1. cAlgoCopierSignalProvider http://ctdn.com/algos/edit/654
+1. cAlgoCopierSignalProvider 
 
-2. cAlgoCopierClient http://ctdn.com/algos/cbots/show/651
+2. cAlgoCopierClient 
 
 3. SocketServer (Multi-users default 10 signal providers, copyclients no limit)
